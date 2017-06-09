@@ -22,6 +22,7 @@ RUN apt-get install php5.6-fpm -y --allow-unauthenticated
 RUN apt-get install php5.6-mysql -y
 RUN apt-get install php5.6-curl -y
 RUN apt-get install php5.6-gd -y
+RUN apt-get install php5.6-mbstring
 RUN apt-get install libfreetype6-dev -y
 
 # Config
