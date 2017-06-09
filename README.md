@@ -8,6 +8,8 @@ WeCenter Docker Image with Mobile API
 
 - WeCenter Mobile API for  3.1.7: [ifLab/WeCenterMobile-Api](https://github.com/ifLab/WeCenterMobile-Api/)
 
+- phpMyAdmin 4.1.7: [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)
+
 ## Usage
 
 ### [Install Docker CE](https://docs.docker.com/engine/installation/linux/ubuntu/)
